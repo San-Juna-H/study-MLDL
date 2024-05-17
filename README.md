@@ -22,7 +22,7 @@ This repository serves as a comprehensive resource for individuals interested in
 
 ## Lecturer
 
-The lectures in the video series are presented by Junseok Lee, a professor at the Visual Information Processing Lab, Graduate School of Data Science, Seoul National University.
+The lectures in the video series are presented by [Junseok Lee](https://gsds.snu.ac.kr/people-post/joonseok-lee/), a professor at the Visual Information Processing Lab, Graduate School of Data Science, Seoul National University.
 
 ## Lecture Materials
 
